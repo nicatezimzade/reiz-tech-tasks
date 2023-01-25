@@ -1,0 +1,15 @@
+C:\Nicat\reiztech\reiztech\reiztech\bin\Debug\net7.0\reiztech.exe
+C:\Nicat\reiztech\reiztech\reiztech\bin\Debug\net7.0\reiztech.deps.json
+C:\Nicat\reiztech\reiztech\reiztech\bin\Debug\net7.0\reiztech.runtimeconfig.json
+C:\Nicat\reiztech\reiztech\reiztech\bin\Debug\net7.0\reiztech.dll
+C:\Nicat\reiztech\reiztech\reiztech\bin\Debug\net7.0\reiztech.pdb
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.csproj.AssemblyReference.cache
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.AssemblyInfoInputs.cache
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.AssemblyInfo.cs
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.csproj.CoreCompileInputs.cache
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.dll
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\refint\reiztech.dll
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.pdb
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\reiztech.genruntimeconfig.cache
+C:\Nicat\reiztech\reiztech\reiztech\obj\Debug\net7.0\ref\reiztech.dll
